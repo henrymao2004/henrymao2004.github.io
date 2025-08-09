@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xutao Henry Mao 
+Xutao Mao (毛煦韬)
 ======
 
 
