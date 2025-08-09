@@ -28,7 +28,7 @@ author_profile: true
         <div class="list__item">
           <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
             <p class="archive__item-excerpt" itemprop="description">
-              {{ post.excerpt | markdownify }}
+              {{ preprint_count }}. {{ post.excerpt | markdownify }}
               {% if post.paperurl %}
                 <a href="{{ post.paperurl }}">"{{ post.title }}"</a>
               {% else %}
