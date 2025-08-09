@@ -20,10 +20,10 @@ Welcome! I am Xutao (Henry) Mao, a senior undergraduate student at Vanderbilt Un
 My research interests primarily focus on Artificial Intelligence including:
 
 ### **AI Alignment & Security**
-Investigating AI alignment, jailbreak detection, and red-teaming techniques, developing comprehensive benchmarks to evaluate the resilience of AI systems and understanding the evolving threat landscape in voice generation and detection.
+Investigating AI alignment, jailbreak detection, and red-teaming techniques, developing comprehensive benchmarks to evaluate the resilience of AI systems and understanding the evolving threat landscape.
 
 ### **Natural Language Processing**
-• **LLM on Graph Structures**: Working on LLM applications on graph structures and social network analysis, developing graph-aware LLM aggregators that capture higher-order context.
+• **LLM on Graph Structures**: Developing advanced language models for graph-structured data, focusing on text imputation techniques and text-to-SQL generation. 
 
 • **Social Reasoning**: Investigating how LLMs can reason about social dynamics and relationships within network structures, understanding social context and behavioral patterns.
 
