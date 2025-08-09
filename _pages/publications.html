@@ -21,7 +21,11 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% if category[0] == 'preprints' %}
+        {% include archive-single-preprint.html %}
+      {% else %}
+        {% include archive-single.html %}
+      {% endif %}
     {% endfor %}
   {% endfor %}
 {% else %}
