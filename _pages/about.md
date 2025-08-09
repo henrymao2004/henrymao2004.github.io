@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xutao Henry Mao"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,8 +25,13 @@ News
 [08/2025] Our paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://www.arxiv.org/abs/2508.01128)" has been released on ArXiv!
 
 [05/2025] Our paper "[LogicCat: Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges](https://arxiv.org/abs/2505.18744)" has been released on ArXiv!
+
 [05/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
+
 [02/2025] Join NDS Lab advised by Dr. Tyler Derr!
+
 [08/2024] Completed Cloud Engineer Internship at Pegasystems, Boston, MA!
+
 [05/2024] Started Cloud Engineer Internship at Pegasystems, Boston, MA!
+
 [09/2023] Join I-Privacy Lab advised by Dr. Dan (Linda) Lin!
