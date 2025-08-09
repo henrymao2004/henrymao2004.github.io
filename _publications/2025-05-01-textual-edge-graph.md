@@ -1,7 +1,7 @@
 ---
 title: "Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-05-01-textual-edge-graph
 excerpt: 'A graph-aware LLM aggregator that captures higher-order context through line-graph views for personalized review generation.'
 date: 2025-05-01
