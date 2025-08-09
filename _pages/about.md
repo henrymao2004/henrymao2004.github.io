@@ -34,7 +34,7 @@ Investigating AI alignment, jailbreak detection, and red-teaming techniques, dev
 
 [05/2025] Our paper "[LogicCat: Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges](https://arxiv.org/abs/2505.18744)" has been released on ArXiv!
 
-[05/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
+[05/2025] Our paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
 
 [02/2025] Join NDS Lab advised by Dr. Tyler Derr!
 
