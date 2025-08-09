@@ -13,9 +13,7 @@ Xutao Mao (毛煦韬)
 
 
 
-
-
-Welcome! I am Xutao (Henry) Mao, a senior student at Vanderbilt University, double majoring in Computer Science and Mathematic. I was fortunated to work with [Dr. Dan Lin](https://lab.vanderbilt.edu/lin-iprivacylab/i-privacy-lab/) in I-Privacy Lab and work with [Dr. Tyler Derr](https://tylersnetwork.github.io/) in NDS Lab. 
+Welcome! I am Xutao (Henry) Mao, a senior undergraduate student at Vanderbilt University, double majoring in Computer Science and Mathematic. I was fortunated to work with [Dr. Dan Lin](https://lab.vanderbilt.edu/lin-iprivacylab/i-privacy-lab/) in I-Privacy Lab and work with [Dr. Tyler Derr](https://tylersnetwork.github.io/) in NDS Lab. 
 
 ## Research Interests
 
