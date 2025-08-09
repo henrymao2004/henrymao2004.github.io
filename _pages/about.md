@@ -25,10 +25,13 @@ My research interests primarily focus on Artificial Intelligence including:
 Investigating AI alignment, jailbreak detection, and red-teaming techniques, developing comprehensive benchmarks to evaluate the resilience of AI systems and understanding the evolving threat landscape in voice generation and detection.
 
 ### **Natural Language Processing**
-Working on LLM applications on graph structures and social network analysis, developing graph-aware LLM aggregators that capture higher-order context for generating coherent, personalized content.
+• **LLM on Graph Structures**: Working on LLM applications on graph structures and social network analysis, developing graph-aware LLM aggregators that capture higher-order context.
+
+• **Social Reasoning**: Investigating how LLMs can reason about social dynamics and relationships within network structures, understanding social context and behavioral patterns.
 
 
-News
+
+## News
 [08/2025] Our paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://www.arxiv.org/abs/2508.01128)" has been released on ArXiv!
 
 [05/2025] Our paper "[LogicCat: Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges](https://arxiv.org/abs/2505.18744)" has been released on ArXiv!
