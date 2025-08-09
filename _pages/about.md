@@ -17,12 +17,15 @@ Xutao Henry Mao
 
 Welcome! I am Xutao (Henry) Mao, a senior student at Vanderbilt University, double majoring in Computer Science and Mathematic. I was fortunated to work with [Dr. Dan Lin](https://lab.vanderbilt.edu/lin-iprivacylab/i-privacy-lab/) in I-Privacy Lab and work with [Dr. Tyler Derr](https://tylersnetwork.github.io/) in NDS Lab. 
 
-Research Interests
+## Research Interests
+
 My research interests primarily focus on Artificial Intelligence including:
 
-• **AI Alignment & Security**: Investigating AI alignment, jailbreak detection, and red-teaming techniques, developing comprehensive benchmarks to evaluate the resilience of AI systems and understanding the evolving threat landscape in voice generation and detection.
+### **AI Alignment & Security**
+Investigating AI alignment, jailbreak detection, and red-teaming techniques, developing comprehensive benchmarks to evaluate the resilience of AI systems and understanding the evolving threat landscape in voice generation and detection.
 
-• **Natural Language Processing**: Working on LLM applications on graph structures and social network analysis, developing graph-aware LLM aggregators that capture higher-order context for generating coherent, personalized content.
+### **Natural Language Processing**
+Working on LLM applications on graph structures and social network analysis, developing graph-aware LLM aggregators that capture higher-order context for generating coherent, personalized content.
 
 
 News
