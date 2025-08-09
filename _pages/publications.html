@@ -9,23 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Simple test to see if publications are loaded -->
-<h2>All Publications</h2>
-
-{% for post in site.publications %}
-  <div class="list__item">
-    <h3>{{ post.title }}</h3>
-    <p>Category: {{ post.category }}</p>
-    <p>Date: {{ post.date }}</p>
-    <p>Excerpt: {{ post.excerpt }}</p>
-    {% if post.paperurl %}
-      <p><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% endif %}
-  </div>
-{% endfor %}
-
-<!-- Original template (commented out for now) -->
-<!--
+<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -36,7 +20,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title | upcase }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
       {% if category[0] == 'preprints' %}
@@ -44,7 +28,7 @@ author_profile: true
         <div class="list__item">
           <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
             <p class="archive__item-excerpt" itemprop="description">
-              {{ preprint_count }}. {{ post.excerpt | markdownify }}
+              {{ post.excerpt | markdownify }}
               {% if post.paperurl %}
                 <a href="{{ post.paperurl }}">"{{ post.title }}"</a>
               {% else %}
@@ -63,7 +47,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
--->
 
 
 
