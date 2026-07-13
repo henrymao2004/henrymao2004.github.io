@@ -192,14 +192,14 @@ Publications
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
-      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang</span>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</span>
       <span class="pub-list-note">Under Review.</span>
       <span class="pub-list-links"></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
-      <span class="pub-list-authors">Haobo Zhang, <strong>Xutao Mao</strong>, Guangyuan Dong, Ziwei Li, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
+      <span class="pub-list-authors">Haobo Zhang, <strong>Xutao Mao</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
       <span class="pub-list-note">Under Review.</span>
       <span class="pub-list-links"></span>
     </li>
