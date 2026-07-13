@@ -95,22 +95,6 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/logiccat.png" alt="LogicCat" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</strong><br>
-      <i style="font-size: 13px;">Tao Liu, <strong>Xutao Mao</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng <em>(equal contribution, alphabetical order)</em></i><br> 
-      A text-to-SQL benchmark targeting multi-domain, chain-of-thought reasoning challenges.
-      <br> 
-      <b><i style="color:#83a1c7;">AAAI 2026 Poster &nbsp;</i></b> 
-      <a href="https://arxiv.org/abs/2505.18744" target="_blank"><em>[arXiv]</em></a> 
-    </div>
-  </div> 
-</div>
-
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/aha.png" alt="AHA" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
@@ -180,7 +164,7 @@ Publications
     <li>
       <span class="pub-list-badge">AAAI 2026</span>
       <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
-      <span class="pub-list-authors">Tao Liu, <strong>Xutao Mao</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng <em>(equal contribution, alphabetical order)</em></span>
+      <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
       <span class="pub-list-note">Poster.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a></span>
     </li>
@@ -202,6 +186,20 @@ Publications
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
+      <span class="pub-list-note">Under Review.</span>
+      <span class="pub-list-links"></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang</span>
+      <span class="pub-list-note">Under Review.</span>
+      <span class="pub-list-links"></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
+      <span class="pub-list-authors">Haobo Zhang, <strong>Xutao Mao</strong>, Guangyuan Dong, Ziwei Li, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
       <span class="pub-list-note">Under Review.</span>
       <span class="pub-list-links"></span>
     </li>
