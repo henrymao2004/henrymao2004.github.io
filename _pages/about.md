@@ -165,6 +165,7 @@ Publications
       <span class="pub-list-badge">AAAI 2026 Poster</span>
       <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
       <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
+      <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a></span>
     </li>
     <li>
