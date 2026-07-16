@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research focuses on the principles for building **trustworthy AI** — especially the safety, alignment, and mechanistic interpretability of agentic and multimodal language models. Feel free to reach out if you are interested in collaboration or potential opportunities.
+My research focuses on the principles for building **trustworthy AI** — especially the safety and alignment of agentic and multimodal language models. Feel free to reach out if you are interested in collaboration or potential opportunities.
 
 News
 ---------------
@@ -35,7 +35,7 @@ Experience
           <strong>City University of Hong Kong</strong><br>
           <em>2026.09 - Present</em><br>
           Ph.D. in Computer Science, advised by <a href="https://www.cs.cityu.edu.hk/~congwang/"><em>Prof. Cong Wang</em></a><br>
-          <span style="color:#888;">Research: agent safety, trustworthy AI, and mechanistic interpretability.</span>
+          <span style="color:#888;">Research: agent safety and trustworthy AI.</span>
       </div>
   </div>
 
