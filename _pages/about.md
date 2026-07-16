@@ -203,6 +203,12 @@ Publications
       <span class="pub-list-authors">Wenjie Lin*, Hange Liu*, Yingying Zhuang, <strong>Xutao Mao</strong>, Jingwei Shi, Xudong Han, Tianyu Shi, Jinrui Yang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2509.16264" target="_blank">[arXiv]</a></span>
     </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation</span><br>
+      <span class="pub-list-authors">Leyao Wang*, <strong>Xutao Mao*</strong>, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A Rossi, Nesreen K Ahmed, Tyler Derr&dagger;</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2508.01128" target="_blank">[arXiv]</a></span>
+    </li>
   </ul>
 </div>
 
