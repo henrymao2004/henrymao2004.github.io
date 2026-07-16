@@ -371,6 +371,15 @@
             text-decoration: underline;
         }
 
+    /* Highlight my own name (Xutao Mao) in the Core + Full publication lists */
+    .publication-card i strong,
+    .pub-list-authors strong,
+    .pub-list-authors > strong {
+        color: #d93025 !important;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+
 
 
 

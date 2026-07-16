@@ -9,7 +9,7 @@ redirect_from:
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 
-Hi! My name is **Xutao Mao**. I am a Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
+Hi! My name is **Xutao Mao**. I am a Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
 My research focuses on the principles for building **trustworthy AI** — especially the safety, alignment, and mechanistic interpretability of agentic and multimodal language models. Feel free to reach out if you are interested in collaboration or potential opportunities.
 
