@@ -371,11 +371,19 @@
             text-decoration: underline;
         }
 
-    /* Highlight my own name (Xutao Mao) in the Core + Full publication lists */
-    .publication-card i strong,
+    /* Highlight my own name (Xutao Mao) in the publication lists */
+    /* Core Publications: bold + the same red as the [arXiv] links */
+    .publication-card i strong {
+        color: #ca6f6f !important;
+        font-weight: 700;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+    /* Full Publications list: bold + the same orange as the "Under Review" note */
     .pub-list-authors strong,
     .pub-list-authors > strong {
-        color: #d93025 !important;
+        color: #c7774c !important;
+        font-weight: 700;
         text-decoration: underline;
         text-underline-offset: 2px;
     }
