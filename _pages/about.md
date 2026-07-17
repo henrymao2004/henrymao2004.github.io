@@ -226,3 +226,8 @@ Scholarships
 Services
 --------
 - Reviewer, AAAI 2026 / 2027 · TheWebConf 2026 · NeurIPS 2026.
+
+
+<div class="map-visitors" style="margin-top: 2em; max-width: 480px;">
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=DCa6ULHsNj3zYmDapx000MdQojF3P-iPExrQbWUOnq8&co=2d78ad&cmo=ea8d8d&cmn=1ed9e2&ct=ffffff'></script>
+</div>
