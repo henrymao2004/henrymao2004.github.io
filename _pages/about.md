@@ -145,6 +145,22 @@ Publications
   </div> 
 </div>
 
+<div class="publication-card" data-category="all"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/agentmemory.png" alt="What Happens Inside Agent Memory?" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</strong><br>
+      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</i><br> 
+      A mechanistic circuit analysis tracing how agent-memory features emerge and specialize inside LLMs — from first-person subject anchoring to category-aggregation hubs — enabling diagnosis of memory behavior.
+      <br> 
+      <b><i style="color:#83a1c7;">Preprint · Under Review &nbsp;</i></b> 
+      <a href="https://arxiv.org/abs/2605.03354" target="_blank"><em>[arXiv]</em></a> 
+    </div>
+  </div> 
+</div>
+
 </div>
 
 
