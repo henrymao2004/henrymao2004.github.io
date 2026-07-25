@@ -88,6 +88,7 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">AAAI 2026 Oral &nbsp;</i></b> 
       <a href="https://arxiv.org/abs/2505.14422" target="_blank"><em>[arXiv]</em></a> 
+      <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
@@ -159,14 +160,14 @@ Publications
       <span class="pub-list-badge">AAAI 2026 Oral</span>
       <span class="pub-list-title">MindVote: When AI Meets the Wild West of Social Media Opinion</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.14422" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.14422" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">AAAI 2026 Poster</span>
       <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
       <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
       <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint &middot; Under Review</span>
@@ -190,13 +191,13 @@ Publications
       <span class="pub-list-badge">Preprint &middot; Under Review</span>
       <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</span>
-      <span class="pub-list-links"></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint &middot; Under Review</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
       <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <span class="pub-list-links"></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
