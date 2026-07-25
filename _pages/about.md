@@ -17,10 +17,10 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🎓🎓 Starting my Ph.D. at the City University of Hong Kong.</li>
-<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 Released two agent-safety projects: <strong>AHA</strong> (Agent Hacks Agent) and <strong>PASB</strong> (Persistent Sycophancy Benchmark).</li>
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 <strong>STARE</strong> accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 <strong>MindVote</strong> (Oral) and <strong>LogicCat</strong> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
+<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released two agent-safety projects: <strong>AHA</strong> (Agent Hacks Agent) and <strong>PASB</strong> (Persistent Sycophancy Benchmark).</li>
+<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our paper <strong>STARE</strong> accepted to <strong>ICML 2026</strong> (Poster).</li>
+<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 Our paper <strong>MindVote</strong> and <strong>LogicCat</strong> accepted to <strong>AAAI 2026</strong> as Oral and Poster.</li>
   </ul>
 </div>
 
