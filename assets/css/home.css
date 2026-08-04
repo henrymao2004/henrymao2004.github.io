@@ -7,7 +7,8 @@
     #publications,
     #projects,
     #awards,
-    #talks {
+    #talks,
+    #collaboration {
         scroll-margin-top: 80px;
     }
   
@@ -78,6 +79,56 @@
     .experience-card {
         box-sizing: border-box;
     }
+
+    .collaboration-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        padding: 24px;
+        border: 1px solid rgba(202, 111, 111, 0.28);
+        border-radius: 12px;
+        background: linear-gradient(135deg, #fffafa 0%, #fef5f1 100%);
+        box-shadow: 0 4px 12px rgba(202, 111, 111, 0.08);
+    }
+
+    .collaboration-copy {
+        flex: 1 1 auto;
+        color: #5f6368;
+        line-height: 1.6;
+    }
+
+    .collaboration-copy strong {
+        color: #202124;
+        font-size: 1.08em;
+    }
+
+    .collaboration-copy p {
+        margin: 8px 0 0;
+    }
+
+    .collaboration-email {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        flex: 0 0 auto;
+        padding: 10px 16px;
+        border-radius: 999px;
+        background: #ca6f6f;
+        color: #fff !important;
+        font-weight: 600;
+        white-space: nowrap;
+        text-decoration: none !important;
+        box-shadow: 0 3px 8px rgba(202, 111, 111, 0.22);
+    }
+
+    .collaboration-email:hover {
+        background: #b95f5f;
+        color: #fff !important;
+        transform: translateY(-1px);
+        text-decoration: none !important;
+    }
+
     .publication-card {
         display: flex;
         align-items: center;
@@ -309,6 +360,17 @@
     }
 
       @media (max-width: 720px) {
+        .collaboration-card {
+            align-items: flex-start;
+            flex-direction: column;
+            padding: 20px;
+        }
+
+        .collaboration-email {
+            white-space: normal;
+            overflow-wrap: anywhere;
+        }
+
         .publication-card,
         .project-card {
             align-items: stretch;
@@ -387,7 +449,6 @@
         text-decoration: underline;
         text-underline-offset: 2px;
     }
-
 
 
 

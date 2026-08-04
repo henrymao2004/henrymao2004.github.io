@@ -16,5 +16,8 @@ main:
   - title: "Services"
     url: "/#services"
 
+  - title: "Collaboration"
+    url: "/#collaboration"
+
   - title: "CV"
     url: "/files/CV-Xutao-Mao.pdf"

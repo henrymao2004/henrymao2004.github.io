@@ -245,6 +245,20 @@ Services
 - Reviewer, AAAI 2026 / 2027 · TheWebConf 2026 · NeurIPS 2026.
 
 
+Collaboration
+-------------
+<div class="collaboration-card">
+  <div class="collaboration-copy">
+    <strong>Let's discuss ideas and build something meaningful together.</strong>
+    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around trustworthy AI, agent safety, and multimodal language models. If our interests overlap, feel free to reach out.</p>
+  </div>
+  <a class="collaboration-email" href="mailto:xutao.henry.mao@gmail.com" aria-label="Email Xutao Mao at xutao.henry.mao@gmail.com">
+    <i class="fas fa-envelope" aria-hidden="true"></i>
+    xutao.henry.mao@gmail.com
+  </a>
+</div>
+
+
 <div class="map-visitors" style="margin-top: 2em; max-width: 480px;">
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=DCa6ULHsNj3zYmDapx000MdQojF3P-iPExrQbWUOnq8&co=2d78ad&cmo=ea8d8d&cmn=1ed9e2&ct=ffffff'></script>
 </div>
