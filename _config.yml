@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Xutao Mao"
 title_separator          : "-"
 name                     : "Xutao Mao"
-description              : &description "Xutao Mao — Ph.D. student at City University of Hong Kong, working on trustworthy AI and agent safety."
+description              : &description "Xutao Mao — first-year Ph.D. student at City University of Hong Kong, working on trustworthy AI and agent safety."
 url                      : "https://henrymao2004.github.io"
 baseurl                  : ""
 repository               : "henrymao2004/henrymao2004.github.io"
@@ -11,7 +11,7 @@ author:
   avatar           : "bio.jpg"
   name             : "Xutao Mao"
   pronouns         :
-  bio              : "Ph.D. student at City University of Hong Kong. I work on trustworthy AI — agent safety and alignment."
+  bio              : "First-year Ph.D. student at City University of Hong Kong. I work on trustworthy AI — agent safety and alignment."
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : "https://henrymao2004.github.io"
@@ -19,6 +19,7 @@ author:
 
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=O0S0uiAAAAAJ&hl=en"
+  huggingface      : "https://huggingface.co/sevens2004"
   impactstory      :
   orcid            :
   semantic         :
@@ -38,7 +39,7 @@ author:
   twitter          :
   youtube          :
   zhihu            :
-  XiaoHongShu      :
+  XiaoHongShu      : "https://www.xiaohongshu.com/user/profile/67fd4f8c000000000e010af6"
 
 teaser                   :
 breadcrumbs              : false

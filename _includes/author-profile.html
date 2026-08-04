@@ -50,6 +50,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.huggingface %}
+        <li><a href="{{ author.huggingface }}"><i class="fas fa-fw fa-face-smile icon-pad-right" aria-hidden="true"></i>Hugging Face</a></li>
+      {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-fw ai-semantic-scholar icon-pad-right" aria-hidden="true"></i>Semantic Scholar</a></li>
       {% endif %}
