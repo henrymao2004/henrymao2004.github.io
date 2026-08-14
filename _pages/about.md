@@ -103,7 +103,7 @@ Publications
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
       An autoresearch red-team framework that discovers reusable vulnerability concepts (a Vulnerability Concept Graph) in production LLM agents; the frozen graph, deployed single-shot on held-out data, beats the strongest baseline by 14.2 points.
       <br> 
-      <b><i style="color:#83a1c7;">Preprint · Under Review &nbsp;</i></b> 
+      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
       <a href="https://arxiv.org/abs/2607.11698" target="_blank"><em>[arXiv]</em></a> 
       <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank"><em>[code]</em></a> 
       <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank"><em>[project]</em></a> 
@@ -121,7 +121,7 @@ Publications
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
       A 1,600-task benchmark for persistent sycophancy in stateful personal agents; crossing the commit boundary is the single largest downstream-failure jump (+27 points), driven by attribution stripping.
       <br> 
-      <b><i style="color:#83a1c7;">Preprint · Under Review &nbsp;</i></b> 
+      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
       <a href="https://arxiv.org/abs/2607.10526" target="_blank"><em>[arXiv]</em></a> 
       <a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank"><em>[code]</em></a> 
       <a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank"><em>[project]</em></a> 
@@ -140,7 +140,7 @@ Publications
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</i><br> 
       Mechanistic analysis and activation-level enforcement that tame chain-of-thought obfuscation in RL-trained VLMs, improving reasoning monitorability by ~60% over GRPO.
       <br> 
-      <b><i style="color:#83a1c7;">Preprint · Under Review &nbsp;</i></b> 
+      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
     </div>
   </div> 
 </div>
@@ -170,31 +170,31 @@ Publications
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint &middot; Under Review</span>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.11698" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">[code]</a><a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">[project]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint &middot; Under Review</span>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint &middot; Under Review</span>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <span class="pub-list-links"></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint &middot; Under Review</span>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[arXiv]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint &middot; Under Review</span>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
       <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a></span>
