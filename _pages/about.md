@@ -67,7 +67,7 @@ Publications
     <div>
       <strong>STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong><br>
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</i><br> 
-      A hierarchical-RL red-team engine with step-wise temporal attribution for multi-modal toxicity attacks, exceeding baselines by ~68% attack success rate with strong transferability.
+      A hierarchical-RL red-team engine with step-wise temporal attribution for multi-modal toxicity attacks; it reveals how harmful content develops across generations, enabling more precise safety evaluation.
       <br> 
       <b><i style="color:#83a1c7;">ICML 2026 Poster &nbsp;</i></b> 
       <a href="https://arxiv.org/abs/2605.00699" target="_blank"><em>[arXiv]</em></a> 
@@ -84,7 +84,7 @@ Publications
     <div>
       <strong>MindVote: When AI Meets the Wild West of Social Media Opinion</strong><br>
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</i><br> 
-      A benchmark probing how large language models predict and reason about real-world social-media opinion.
+      A benchmark for predicting and reasoning about real-world social-media opinion; it grounds LLM evaluation in the complexity of noisy, polarized public discourse.
       <br> 
       <b><i style="color:#83a1c7;">AAAI 2026 Oral &nbsp;</i></b> 
       <a href="https://arxiv.org/abs/2505.14422" target="_blank"><em>[arXiv]</em></a> 
@@ -101,7 +101,7 @@ Publications
     <div>
       <strong>Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</strong><br>
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
-      An autoresearch red-team framework that discovers reusable vulnerability concepts (a Vulnerability Concept Graph) in production LLM agents; the frozen graph, deployed single-shot on held-out data, beats the strongest baseline by 14.2 points.
+      An autoresearch framework that turns agent red-teaming discoveries into a reusable Vulnerability Concept Graph; it makes transferable vulnerability knowledge actionable against unseen production agents.
       <br> 
       <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
       <a href="https://arxiv.org/abs/2607.11698" target="_blank"><em>[arXiv]</em></a> 
@@ -119,7 +119,7 @@ Publications
     <div>
       <strong>Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</strong><br>
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
-      A 1,600-task benchmark for persistent sycophancy in stateful personal agents; crossing the commit boundary is the single largest downstream-failure jump (+27 points), driven by attribution stripping.
+      A 1,600-task benchmark tracing how sycophancy persists through stateful agent memory; it shows how unsafe agreement survives interaction boundaries and compounds into downstream failures.
       <br> 
       <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
       <a href="https://arxiv.org/abs/2607.10526" target="_blank"><em>[arXiv]</em></a> 
@@ -138,7 +138,7 @@ Publications
     <div>
       <strong>Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</strong><br>
       <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</i><br> 
-      Mechanistic analysis and activation-level enforcement that tame chain-of-thought obfuscation in RL-trained VLMs, improving reasoning monitorability by ~60% over GRPO.
+      A mechanistic framework that diagnoses and suppresses chain-of-thought obfuscation in RL-trained VLMs; it improves the transparency and enforceability of model reasoning.
       <br> 
       <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
     </div>
