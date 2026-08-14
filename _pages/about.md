@@ -217,9 +217,9 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">ParlAI Vote: A Web Platform for Analyzing Gender and Political Bias in Large Language Models</span><br>
-      <span class="pub-list-authors">Wenjie Lin*, Hange Liu*, Yingying Zhuang, <strong>Xutao Mao</strong>, Jingwei Shi, Xudong Han, Tianyu Shi, Jinrui Yang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2509.16264" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-title">Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2608.12851" target="_blank">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
