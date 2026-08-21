@@ -18,6 +18,8 @@ News
 <div class="news-box">
   <ul class="news-list">
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our paper <strong>MemMark</strong> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released the code for <a href="https://github.com/henrymao2004/misevolve" target="_blank"><strong>MISEvolve</strong></a>, our work on skill misevolution in self-improving LLM agents.</li>
 <li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released two agent-safety projects: <strong>AHA</strong> (Agent Hacks Agent) and <strong>PASB</strong> (Persistent Sycophancy Benchmark).</li>
 <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our paper <strong>STARE</strong> accepted to <strong>ICML 2026</strong> (Poster).</li>
 <li><span class="news-date"><em>2025.11</em></span> 🎉🎉 Our paper <strong>MindVote</strong> and <strong>LogicCat</strong> accepted to <strong>AAAI 2026</strong> as Oral and Poster.</li>
@@ -194,16 +196,16 @@ Publications
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[arXiv]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-badge">EMNLP 2026 Findings</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
       <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2608.12851" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2608.12851" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/misevolve" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
