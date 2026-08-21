@@ -20,8 +20,7 @@ As AI agents gain autonomy, memory, and the ability to improve themselves, I am 
 - **What happens when the world pushes an agent around?** I attack
   production agents before someone else does. The failures I find do
   not stay where they started: they travel from one deployed system to
-  the next, while multimodal models bring their own surprise—toxic
-  semantics emerge at distinct moments during generation
+  the next, while multimodal models bring surprises of their own
   ([STARE](https://arxiv.org/abs/2605.00699),
   [AHA](https://arxiv.org/abs/2607.11698)).
 
