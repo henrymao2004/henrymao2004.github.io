@@ -11,7 +11,15 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research focuses on the principles for building **trustworthy AI** — especially the safety and alignment of agentic and multimodal language models. Feel free to reach out if you are interested in collaboration or potential opportunities.
+My research focuses on **agent safety** and **recursive self-improvement**. I study how autonomous agents acquire, retain, and reuse capabilities—and how to make these processes safer, more auditable, and more robust. My broader work spans automated red-teaming, multimodal safety, and mechanistic interpretability. Feel free to reach out if you are interested in collaboration.
+
+Research Interests
+------------------
+My research centers on the safety and governance of increasingly autonomous AI systems across three connected directions:
+
+- **Agent Safety and Automated Red-Teaming:** Discovering, evaluating, and mitigating failures in production agents, stateful personal agents, and multimodal systems ([STARE](https://arxiv.org/abs/2605.00699), [AHA](https://arxiv.org/abs/2607.11698), [PASB](https://arxiv.org/abs/2607.10526)).
+- **Safe Recursive Self-Improvement:** Understanding how experience becomes persistent memory or reusable skills, how unsafe updates propagate across tasks, and how evolving agent state can be governed and audited ([MisEvolve](https://arxiv.org/abs/2608.12851), [MemMark](https://arxiv.org/abs/2605.25002)).
+- **Mechanistic Safety and Oversight:** Tracing the internal computations behind agent memory and model reasoning, then turning mechanistic evidence into diagnostics and enforceable interventions ([Agent Memory](https://arxiv.org/abs/2605.03354), <a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
 
 News
 ---------------
@@ -37,7 +45,7 @@ Experience
           <strong>City University of Hong Kong</strong><br>
           <em>2026.09 - Present</em><br>
           Ph.D. in Computer Science, advised by <a href="https://www.cs.cityu.edu.hk/~congwang/"><em>Prof. Cong Wang</em></a><br>
-          <span style="color:#888;">Research: agent safety and trustworthy AI.</span>
+          <span style="color:#888;">Research: agent safety and recursive self-improvement.</span>
       </div>
   </div>
 
@@ -192,7 +200,7 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
     </li>
-    <li>
+    <li id="tame-paper">
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
@@ -239,7 +247,7 @@ Collaboration
 <div class="collaboration-card">
   <div class="collaboration-copy">
     <strong>Let's discuss ideas and build something meaningful together.</strong>
-    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around trustworthy AI, agent safety, and multimodal language models. If our interests overlap, feel free to reach out.</p>
+    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around agent safety, recursive self-improvement, and mechanistic oversight. If our interests overlap, feel free to reach out.</p>
   </div>
   <a class="collaboration-email" href="mailto:xutao.henry.mao@gmail.com" aria-label="Email Xutao Mao at xutao.henry.mao@gmail.com">
     <i class="fas fa-envelope" aria-hidden="true"></i>
