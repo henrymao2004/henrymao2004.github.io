@@ -156,6 +156,12 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
+      <span class="pub-list-badge">EMNLP 2026 Findings</span>
+      <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
+      <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
+    </li>
+    <li>
       <span class="pub-list-badge">ICML 2026 Poster</span>
       <span class="pub-list-title">STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
@@ -173,12 +179,6 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
       <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
       <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">EMNLP 2026 Findings</span>
-      <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
-      <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
