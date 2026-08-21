@@ -11,15 +11,15 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research focuses on **agent safety** and **recursive self-improvement**. I study how autonomous agents acquire, retain, and reuse capabilities—and how to make these processes safer, more auditable, and more robust. My broader work spans automated red-teaming, multimodal safety, and mechanistic interpretability. Feel free to reach out if you are interested in collaboration.
+My research asks how AI agents can grow more capable without becoming less safe. I study failures that emerge as agents act, remember, and learn from experience, with a focus on **agent safety** and **recursive self-improvement**. My work spans automated red-teaming, persistent agent state, multimodal safety, and mechanistic oversight. Feel free to reach out if you are interested in collaboration.
 
 Research Interests
 ------------------
-My research centers on the safety and governance of increasingly autonomous AI systems across three connected directions:
+As AI agents gain autonomy, memory, and the ability to improve themselves, I am interested in three questions:
 
-- **Agent Safety and Automated Red-Teaming:** Discovering, evaluating, and mitigating failures in production agents, stateful personal agents, and multimodal systems ([STARE](https://arxiv.org/abs/2605.00699), [AHA](https://arxiv.org/abs/2607.11698), [PASB](https://arxiv.org/abs/2607.10526)).
-- **Safe Recursive Self-Improvement:** Understanding how experience becomes persistent memory or reusable skills, how unsafe updates propagate across tasks, and how evolving agent state can be governed and audited ([MisEvolve](https://arxiv.org/abs/2608.12851), [MemMark](https://arxiv.org/abs/2605.25002)).
-- **Mechanistic Safety and Oversight:** Tracing the internal computations behind agent memory and model reasoning, then turning mechanistic evidence into diagnostics and enforceable interventions ([Agent Memory](https://arxiv.org/abs/2605.03354), <a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
+- **How do agents fail in the wild?** I build red-teaming and evaluation systems that uncover transferable vulnerabilities in production agents, trace failures that persist through agent memory, and reveal when toxic behavior emerges during multimodal generation ([STARE](https://arxiv.org/abs/2605.00699), [AHA](https://arxiv.org/abs/2607.11698), [PASB](https://arxiv.org/abs/2607.10526)).
+- **What happens when agents learn from experience?** I study how memories and skills evolve into persistent cross-task state, when unsafe experience becomes reusable behavior, and how provenance and governance can make self-improvement safer ([MisEvolve](https://arxiv.org/abs/2608.12851), [MemMark](https://arxiv.org/abs/2605.25002)).
+- **Can we see—and steer—what happens inside?** I trace the internal circuits behind agent memory and reasoning monitorability, then turn mechanistic evidence into practical diagnostics and activation-level interventions ([Agent Memory](https://arxiv.org/abs/2605.03354), <a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
 
 News
 ---------------
