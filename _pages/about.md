@@ -17,9 +17,31 @@ Research Interests
 ------------------
 As AI agents gain autonomy, memory, and the ability to improve themselves, I am interested in three questions:
 
-- **How do agents fail in the wild?** I build red-teaming and evaluation systems that uncover transferable vulnerabilities in production agents, trace failures that persist through agent memory, and reveal when toxic behavior emerges during multimodal generation ([STARE](https://arxiv.org/abs/2605.00699), [AHA](https://arxiv.org/abs/2607.11698), [PASB](https://arxiv.org/abs/2607.10526)).
-- **What happens when agents learn from experience?** I study how memories and skills evolve into persistent cross-task state, when unsafe experience becomes reusable behavior, and how provenance and governance can make self-improvement safer ([MisEvolve](https://arxiv.org/abs/2608.12851), [MemMark](https://arxiv.org/abs/2605.25002)).
-- **Can we see—and steer—what happens inside?** I trace the internal circuits behind agent memory and reasoning monitorability, then turn mechanistic evidence into practical diagnostics and activation-level interventions ([Agent Memory](https://arxiv.org/abs/2605.03354), <a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
+- **What happens when the world pushes an agent around?** I attack
+  production agents before someone else does. The failures I find do
+  not stay where they started: they travel from one deployed system to
+  the next, while multimodal models bring their own surprise—toxic
+  semantics emerge at distinct moments during generation
+  ([STARE](https://arxiv.org/abs/2605.00699),
+  [AHA](https://arxiv.org/abs/2607.11698)).
+
+- **What happens when an agent's own past turns against it?** Agents
+  keep notes, and the notes bite back. A user's casual opinion gets
+  written into memory and starts bossing later chats around
+  ([PASB](https://arxiv.org/abs/2607.10526)), and one unsafe lesson
+  becomes a habit the agent keeps reusing
+  ([MisEvolve](https://arxiv.org/abs/2608.12851)). So I also work on
+  where these memories come from and who gets to write them, to keep
+  self-improvement on the rails
+  ([MemMark](https://arxiv.org/abs/2605.25002)).
+
+- **Can we watch this happen inside the model, and step in?** I open
+  the box: tracing the circuits that decide what an agent writes into
+  memory and what it pulls back out
+  ([Agent Memory](https://arxiv.org/abs/2605.03354)), then turning what
+  we find inside into tools that watch and steer models at the
+  activation level
+  (<a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
 
 News
 ---------------
