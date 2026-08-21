@@ -132,6 +132,8 @@ Publications
   </div> 
 </div>
 
+{% comment %}
+Temporarily hidden from Core Publications. Remove these Liquid comment tags to restore the Taming card.
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
@@ -146,6 +148,7 @@ Publications
     </div>
   </div> 
 </div>
+{% endcomment %}
 
 </div>
 
@@ -172,6 +175,12 @@ Publications
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
     </li>
     <li>
+      <span class="pub-list-badge">EMNLP 2026 Findings</span>
+      <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
+      <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
+    </li>
+    <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
@@ -194,12 +203,6 @@ Publications
       <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[arXiv]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">EMNLP 2026 Findings</span>
-      <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
-      <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
