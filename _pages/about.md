@@ -92,16 +92,35 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/mindvote.png" alt="MindVote" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/trustfork.png" alt="TrustFork" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
-      <strong>MindVote: When AI Meets the Wild West of Social Media Opinion</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</i><br> 
-      A benchmark for predicting and reasoning about real-world social-media opinion; it grounds LLM evaluation in the complexity of noisy, polarized public discourse.
+      <strong>Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong><br>
+      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Rui Qian, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</i><br> 
+      A benchmark for identity hijack in subagent orchestration: a fake model name or tier on a worker can change whom the main agent trusts and allows to act.
       <br> 
-      <b><i style="color:#83a1c7;">AAAI 2026 Oral &nbsp;</i></b> 
-      <a href="https://arxiv.org/abs/2505.14422" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank"><em>[code]</em></a> 
+      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
+      <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank"><em>[code]</em></a> 
+      <a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank"><em>[project]</em></a> 
+      <a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank"><em>[dataset]</em></a> 
+    </div>
+  </div> 
+</div>
+
+<div class="publication-card" data-category="all"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/cave.png" alt="CAVE-Bench" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong><br>
+      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Rui Qian, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
+      A benchmark for false blame after the work is already correct: the reply <em>you're right, let me fix it</em> can make an agent undo a working system.
+      <br> 
+      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
+      <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank"><em>[code]</em></a> 
+      <a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank"><em>[project]</em></a> 
+      <a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank"><em>[dataset]</em></a> 
     </div>
   </div> 
 </div>
