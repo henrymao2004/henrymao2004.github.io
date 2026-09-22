@@ -27,13 +27,13 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2609.24243" target="_blank">activation enforcement for CoT obfuscation in VLMs</a> is now on arXiv.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> is now on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.25002" target="_blank">state-evolution attribution watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> is now on arXiv.</li>
-<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch for production-agent red-teaming</a> and <a href="https://arxiv.org/abs/2607.10526" target="_blank">persistent sycophancy in stateful personal agents</a> are now on arXiv.</li>
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.00699" target="_blank">step-wise temporal red-teaming for multi-modal toxicity</a> accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
+<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> and <a href="https://arxiv.org/abs/2607.10526" target="_blank">persistent sycophancy in stateful personal agents</a> are now on arXiv.</li>
+<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> accepted to <strong>ICML 2026</strong> (Poster).</li>
+<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
   </ul>
 </div>
 
