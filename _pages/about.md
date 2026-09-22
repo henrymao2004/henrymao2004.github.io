@@ -74,7 +74,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
-      <em class="pub-entry-venue">In ICML 2026</em>
+      <em class="pub-entry-venue">Proceedings of the 43rd International Conference on Machine Learning, 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2605.00699" target="_blank">ARXIV</a>
         <a href="https://github.com/henrymao2004/STARE" target="_blank">CODE</a>
@@ -89,7 +89,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong>
       <span class="pub-entry-authors">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <em class="pub-entry-venue">In Findings of EMNLP 2026</em>
+      <em class="pub-entry-venue">Findings of the Conference on Empirical Methods in Natural Language Processing, 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2605.25002" target="_blank">ARXIV</a>
         <a href="https://github.com/zhb0119/MemMark" target="_blank">CODE</a>
@@ -105,7 +105,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">MindVote: When AI Meets the Wild West of Social Media Opinion</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
-      <em class="pub-entry-venue">In AAAI 2026</em>
+      <em class="pub-entry-venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2505.14422" target="_blank">ARXIV</a>
         <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">CODE</a>
