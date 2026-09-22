@@ -30,10 +30,10 @@ News
 <li><span class="news-date"><em>2026.09</em></span> 🚀🚀 Our paper <a href="https://arxiv.org/abs/2609.24243" target="_blank"><strong>TAME</strong></a> on CoT obfuscation in VLMs is now on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our paper <strong>MemMark</strong> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 Our paper <a href="https://arxiv.org/abs/2608.12851" target="_blank"><strong>MISEvolve</strong></a> on skill misevolution in LLM agents is now on arXiv.</li>
-<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 Our papers <a href="https://arxiv.org/abs/2607.11698" target="_blank"><strong>AHA</strong></a> on production-agent red-teaming and <a href="https://arxiv.org/abs/2607.10526" target="_blank"><strong>PASB</strong></a> on persistent sycophancy are now on arXiv.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2608.12851" target="_blank"><strong>MISEvolve</strong></a> study of skill misevolution in LLM agents is now on arXiv.</li>
+<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2607.11698" target="_blank"><strong>AHA</strong></a> autoresearch for production-agent red-teaming and <a href="https://arxiv.org/abs/2607.10526" target="_blank"><strong>PASB</strong></a> benchmark for persistent sycophancy are now on arXiv.</li>
 <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our paper <strong>STARE</strong> accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 Our paper <strong>MindVote</strong> and <strong>LogicCat</strong> accepted to <strong>AAAI 2026</strong> as Oral and Poster.</li>
+<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2505.14422" target="_blank"><strong>MindVote</strong></a> benchmark for social-media opinion (Oral) and <a href="https://arxiv.org/abs/2505.18744" target="_blank"><strong>LogicCat</strong></a> benchmark for multi-domain text-to-SQL (Poster) accepted to <strong>AAAI 2026</strong>.</li>
   </ul>
 </div>
 
