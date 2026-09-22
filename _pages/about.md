@@ -88,6 +88,41 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/cards/memmark.jpg" alt="MemMark" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong><br>
+      <i style="font-size: 13px;">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</i><br> 
+      A watermark on the memory-evolution channel that attributes who wrote a long-term memory while the stored content stays the same.
+      <br> 
+      <b><i style="color:#83a1c7;">EMNLP 2026 Findings &nbsp;</i></b> 
+      <a href="https://arxiv.org/abs/2605.25002" target="_blank"><em>[arXiv]</em></a> 
+      <a href="https://github.com/zhb0119/MemMark" target="_blank"><em>[code]</em></a> 
+      <a href="https://henrymao2004.github.io/MemMark/" target="_blank"><em>[project]</em></a> 
+    </div>
+  </div> 
+</div>
+
+<div class="publication-card" data-category="all"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/cards/mindvote.jpg" alt="MindVote" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>MindVote: When AI Meets the Wild West of Social Media Opinion</strong><br>
+      <i style="font-size: 13px;"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</i><br> 
+      A benchmark for predicting and reasoning about real-world social-media opinion, with platform context instead of survey-only questions.
+      <br> 
+      <b><i style="color:#83a1c7;">AAAI 2026 Oral &nbsp;</i></b> 
+      <a href="https://arxiv.org/abs/2505.14422" target="_blank"><em>[arXiv]</em></a> 
+      <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank"><em>[code]</em></a> 
+    </div>
+  </div> 
+</div>
+
+<div class="publication-card" data-category="all"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/cards/trustfork.jpg" alt="TrustFork" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
