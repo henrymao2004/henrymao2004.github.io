@@ -74,7 +74,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
-      <em class="pub-entry-venue">In Proceedings of the 43rd International Conference on Machine Learning, 2026</em>
+      <em class="pub-entry-venue">In ICML 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2605.00699" target="_blank">ARXIV</a>
         <a href="https://github.com/henrymao2004/STARE" target="_blank">CODE</a>
@@ -89,7 +89,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong>
       <span class="pub-entry-authors">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <em class="pub-entry-venue">In Findings of the Association for Computational Linguistics: EMNLP 2026, 2026</em>
+      <em class="pub-entry-venue">In Findings of EMNLP 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2605.25002" target="_blank">ARXIV</a>
         <a href="https://github.com/zhb0119/MemMark" target="_blank">CODE</a>
@@ -105,7 +105,7 @@ Publications
     <div class="pub-entry-body">
       <strong class="pub-entry-title">MindVote: When AI Meets the Wild West of Social Media Opinion</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
-      <em class="pub-entry-venue">In Proceedings of the AAAI Conference on Artificial Intelligence, 2026</em>
+      <em class="pub-entry-venue">In AAAI 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2505.14422" target="_blank">ARXIV</a>
         <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">CODE</a>
@@ -150,8 +150,8 @@ Publications
   <div class="pub-entry">
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
-      <strong class="pub-entry-title">Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <strong class="pub-entry-title">Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2607.11698" target="_blank">ARXIV</a>
@@ -229,8 +229,8 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</span><br>
-      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <span class="pub-list-title">Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.11698" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">[code]</a><a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">[project]</a></span>
     </li>
     <li>

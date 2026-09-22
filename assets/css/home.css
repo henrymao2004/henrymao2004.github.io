@@ -151,7 +151,7 @@
     }
     .pub-venue-pill {
         flex: 0 0 108px;
-        background: #83a1c7;
+        background: #ca6f6f;
         color: #fff;
         font-weight: 700;
         font-size: 12px;
@@ -200,8 +200,8 @@
         text-decoration: none !important;
     }
     .pub-entry-links a:hover {
-        border-color: #83a1c7;
-        color: #4c6a94 !important;
+        border-color: #ca6f6f;
+        color: #ca6f6f !important;
     }
     .publication-card > div > strong,
     .publication-card > div > div > strong {
