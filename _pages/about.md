@@ -11,41 +11,23 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research asks how AI agents can grow more capable without becoming less safe. I study failures that emerge as agents act, remember, and learn from experience, with a focus on **agent safety** and **recursive self-improvement**. My work spans automated red-teaming, persistent agent state, multimodal safety, and mechanistic oversight. Feel free to reach out if you are interested in collaboration.
+My research asks **how AI agents fail as they grow more capable—and how to keep that evolution safe.** As they start to act in the world, they also begin to coordinate with other agents, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **agent safety**. Feel free to reach out if you are interested in collaboration.
 
 Research Interests
 ------------------
-As AI agents gain autonomy, memory, and the ability to improve themselves, I am interested in three questions:
+Each new ability grows a new safety surface. My papers follow that surface in order.
 
-- **What happens when the world pushes an agent around?** I attack
-  production agents before someone else does. The failures I find do
-  not stay where they started: they travel from one deployed system to
-  the next, while multimodal models bring surprises of their own
-  ([STARE](https://arxiv.org/abs/2605.00699),
-  [AHA](https://arxiv.org/abs/2607.11698)).
+- **Acting and coordinating.** I red-team agents while they are doing work. [AHA](https://arxiv.org/abs/2607.11698) turns that red-teaming into autoresearch: one agent spends the night attacking a production agent and comes back with reusable explanations of why it breaks. [TrustFork](https://github.com/henrymao2004/agent-orchestration-safety) studies subagent orchestration, where a fake identity on a worker's nametag can hijack whom the main agent trusts and allows to act. [CAVE](https://github.com/henrymao2004/agent-over-correction) studies the reply *you're right, let me fix it*: after the job is already done, a false accusation can make an agent undo a working system. [STARE](https://arxiv.org/abs/2605.00699) carries the same attack question into multimodal models, along the generation timeline.
 
-- **What happens when an agent's own past turns against it?** Agents
-  keep notes, and the notes bite back. A user's casual opinion gets
-  written into memory and starts bossing later chats around
-  ([PASB](https://arxiv.org/abs/2607.10526)), and one unsafe lesson
-  becomes a habit the agent keeps reusing
-  ([MisEvolve](https://arxiv.org/abs/2608.12851)). So I also work on
-  where these memories come from and who gets to write them, to keep
-  self-improvement on the rails
-  ([MemMark](https://arxiv.org/abs/2605.25002)).
+- **Remembering and improving.** Once an agent keeps state, a failure can outlive the chat that caused it. [PASB](https://arxiv.org/abs/2607.10526) shows sycophancy writing itself into memory and bossing later conversations. [MisEvolve](https://arxiv.org/abs/2608.12851) follows one unsafe lesson as it becomes a skill the agent keeps reusing. [MemMark](https://arxiv.org/abs/2605.25002) watermarks who wrote a memory, so long-term state can be attributed.
 
-- **Can we watch this happen inside the model, and step in?** I open
-  the box: tracing the circuits that decide what an agent writes into
-  memory and what it pulls back out
-  ([Agent Memory](https://arxiv.org/abs/2605.03354)), then turning what
-  we find inside into tools that watch and steer models at the
-  activation level
-  (<a href="#tame-paper" onclick="showPublications('list')">TAME</a>).
+- **Looking inside and stepping in.** I trace the circuits that decide what an agent writes into memory and what it pulls back out ([Agent Memory](https://arxiv.org/abs/2605.03354)), then turn that kind of internal evidence into tools that watch and steer activations, including chain-of-thought obfuscation in VLMs ([TAME](https://arxiv.org/abs/2609.24243)).
 
 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
+<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 Our paper <a href="https://arxiv.org/abs/2609.24243" target="_blank"><strong>TAME</strong></a> on CoT obfuscation in VLMs is now on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our paper <strong>MemMark</strong> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released the code for <a href="https://github.com/henrymao2004/misevolve" target="_blank"><strong>MISEvolve</strong></a>, our work on skill misevolution in self-improving LLM agents.</li>
@@ -66,7 +48,7 @@ Experience
           <strong>City University of Hong Kong</strong><br>
           <em>2026.09 - Present</em><br>
           Ph.D. in Computer Science, advised by <a href="https://www.cs.cityu.edu.hk/~congwang/"><em>Prof. Cong Wang</em></a><br>
-          <span style="color:#888;">Research: agent safety and recursive self-improvement.</span>
+          <span style="color:#888;">Research: agent safety.</span>
       </div>
   </div>
 
@@ -223,9 +205,9 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
     </li>
     <li id="tame-paper">
       <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
+      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
-      <span class="pub-list-links"></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
@@ -268,7 +250,7 @@ Collaboration
 <div class="collaboration-card">
   <div class="collaboration-copy">
     <strong>Let's discuss ideas and build something meaningful together.</strong>
-    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around agent safety, recursive self-improvement, and mechanistic oversight. If our interests overlap, feel free to reach out.</p>
+    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around agent safety as agents grow more capable. If our interests overlap, feel free to reach out.</p>
   </div>
   <a class="collaboration-email" href="mailto:xutao.henry.mao@gmail.com" aria-label="Email Xutao Mao at xutao.henry.mao@gmail.com">
     <i class="fas fa-envelope" aria-hidden="true"></i>
