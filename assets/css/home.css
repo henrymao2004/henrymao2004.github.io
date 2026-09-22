@@ -142,6 +142,67 @@
 
         color: #5f6368;
     }
+    .pub-entry {
+        display: flex;
+        align-items: flex-start;
+        gap: 18px;
+        width: 100%;
+        padding: 10px 8px;
+    }
+    .pub-venue-pill {
+        flex: 0 0 108px;
+        background: #83a1c7;
+        color: #fff;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 1.25;
+        text-align: center;
+        border-radius: 8px;
+        padding: 8px 8px;
+    }
+    .pub-entry-body {
+        min-width: 0;
+    }
+    .pub-entry-title {
+        display: block;
+        color: #202124;
+        font-size: 18px;
+        line-height: 1.35;
+        margin-bottom: 4px;
+    }
+    .pub-entry-authors {
+        display: block;
+        color: #202124;
+        font-style: normal;
+        font-size: 15px;
+        line-height: 1.45;
+    }
+    .pub-entry-venue {
+        display: block;
+        margin-top: 4px;
+        color: #202124;
+        font-size: 15px;
+    }
+    .pub-entry-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+    }
+    .pub-entry-links a {
+        display: inline-block;
+        border: 1px solid #cfcfcf;
+        border-radius: 6px;
+        padding: 4px 12px;
+        color: #202124 !important;
+        font-size: 13px;
+        letter-spacing: 0.04em;
+        text-decoration: none !important;
+    }
+    .pub-entry-links a:hover {
+        border-color: #83a1c7;
+        color: #4c6a94 !important;
+    }
     .publication-card > div > strong,
     .publication-card > div > div > strong {
         color: #202124;
@@ -384,6 +445,15 @@
             width: 100%;
         }
 
+        .pub-entry {
+            flex-direction: column;
+            gap: 10px;
+        }
+        .pub-venue-pill {
+            flex-basis: auto;
+            align-self: flex-start;
+        }
+
         .publication-card .pub-media-rotator,
         .project-card .pub-media-rotator {
             width: 100% !important;
@@ -435,11 +505,16 @@
 
     /* Highlight my own name (Xutao Mao) in the publication lists */
     /* Core Publications: bold + the same red as the [arXiv] links */
-    .publication-card i strong {
+    .publication-card i strong,
+    .publication-card .pub-entry-authors strong {
         color: #ca6f6f !important;
         font-weight: 700;
         text-decoration: underline;
         text-underline-offset: 2px;
+    }
+    .publication-card .pub-entry-venue {
+        color: #202124;
+        font-style: italic;
     }
     /* Full Publications list: bold + the same orange as the "Under Review" note */
     .pub-list-authors strong,

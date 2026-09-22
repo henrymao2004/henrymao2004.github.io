@@ -68,129 +68,115 @@ Publications
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/stare.jpg" alt="STARE" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</i><br> 
-      A hierarchical-RL red-team engine with step-wise temporal attribution for multi-modal toxicity attacks; it reveals how harmful content develops across generations, enabling more precise safety evaluation.
-      <br> 
-      <b><i style="color:#83a1c7;">ICML 2026 Poster &nbsp;</i></b> 
-      <a href="https://arxiv.org/abs/2605.00699" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/henrymao2004/STARE" target="_blank"><em>[code]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">ICML'26 Poster</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
+      <em class="pub-entry-venue">In Proceedings of the 43rd International Conference on Machine Learning, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2605.00699" target="_blank">ARXIV</a>
+        <a href="https://github.com/henrymao2004/STARE" target="_blank">CODE</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/memmark.jpg" alt="MemMark" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong><br>
-      <i style="font-size: 13px;">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</i><br> 
-      A watermark on the memory-evolution channel that attributes who wrote a long-term memory while the stored content stays the same.
-      <br> 
-      <b><i style="color:#83a1c7;">EMNLP 2026 Findings &nbsp;</i></b> 
-      <a href="https://arxiv.org/abs/2605.25002" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/zhb0119/MemMark" target="_blank"><em>[code]</em></a> 
-      <a href="https://henrymao2004.github.io/MemMark/" target="_blank"><em>[project]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">EMNLP'26 Findings</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong>
+      <span class="pub-entry-authors">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
+      <em class="pub-entry-venue">In Findings of the Association for Computational Linguistics: EMNLP 2026, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2605.25002" target="_blank">ARXIV</a>
+        <a href="https://github.com/zhb0119/MemMark" target="_blank">CODE</a>
+        <a href="https://henrymao2004.github.io/MemMark/" target="_blank">PROJECT</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/mindvote.jpg" alt="MindVote" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>MindVote: When AI Meets the Wild West of Social Media Opinion</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</i><br> 
-      A benchmark for predicting and reasoning about real-world social-media opinion, with platform context instead of survey-only questions.
-      <br> 
-      <b><i style="color:#83a1c7;">AAAI 2026 Oral &nbsp;</i></b> 
-      <a href="https://arxiv.org/abs/2505.14422" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank"><em>[code]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">AAAI'26 Oral</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">MindVote: When AI Meets the Wild West of Social Media Opinion</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
+      <em class="pub-entry-venue">In Proceedings of the AAAI Conference on Artificial Intelligence, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2505.14422" target="_blank">ARXIV</a>
+        <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">CODE</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/trustfork.jpg" alt="TrustFork" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Rui Qian, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</i><br> 
-      A benchmark for identity hijack in subagent orchestration: a fake model name or tier on a worker can change whom the main agent trusts and allows to act.
-      <br> 
-      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
-      <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank"><em>[code]</em></a> 
-      <a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank"><em>[project]</em></a> 
-      <a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank"><em>[dataset]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">Preprint</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</span>
+      <em class="pub-entry-venue">Preprint, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank">CODE</a>
+        <a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank">PROJECT</a>
+        <a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank">DATASET</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/cave.jpg" alt="CAVE-Bench" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Rui Qian, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
-      A benchmark for false blame after the work is already correct: the reply <em>you're right, let me fix it</em> can make an agent undo a working system.
-      <br> 
-      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
-      <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank"><em>[code]</em></a> 
-      <a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank"><em>[project]</em></a> 
-      <a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank"><em>[dataset]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">Preprint</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <em class="pub-entry-venue">Preprint, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">CODE</a>
+        <a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank">PROJECT</a>
+        <a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank">DATASET</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/aha.jpg" alt="AHA" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
-      An autoresearch framework that turns agent red-teaming discoveries into a reusable Vulnerability Concept Graph; it makes transferable vulnerability knowledge actionable against unseen production agents.
-      <br> 
-      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
-      <a href="https://arxiv.org/abs/2607.11698" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank"><em>[code]</em></a> 
-      <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank"><em>[project]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">Preprint</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <em class="pub-entry-venue">Preprint, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2607.11698" target="_blank">ARXIV</a>
+        <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">CODE</a>
+        <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">PROJECT</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cards/pasb.jpg" alt="PASB" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</i><br> 
-      A 1,600-task benchmark tracing how sycophancy persists through stateful agent memory; it shows how unsafe agreement survives interaction boundaries and compounds into downstream failures.
-      <br> 
-      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
-      <a href="https://arxiv.org/abs/2607.10526" target="_blank"><em>[arXiv]</em></a> 
-      <a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank"><em>[code]</em></a> 
-      <a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank"><em>[project]</em></a> 
-      <a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank"><em>[dataset]</em></a> 
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">Preprint</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <em class="pub-entry-venue">Preprint, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2607.10526" target="_blank">ARXIV</a>
+        <a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">CODE</a>
+        <a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">PROJECT</a>
+        <a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">DATASET</a>
+      </div>
     </div>
-  </div> 
+  </div>
 </div>
 
 {% comment %}
