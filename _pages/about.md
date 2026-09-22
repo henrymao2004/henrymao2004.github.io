@@ -15,25 +15,21 @@ My research asks **how AI agents fail as they grow more capable—and how to kee
 
 Research Interests
 ------------------
-Each new ability grows a new safety surface. My papers follow that surface in order.
-
-- **Acting and coordinating.** I red-team agents while they are doing work. [AHA](https://arxiv.org/abs/2607.11698) turns that red-teaming into autoresearch: one agent spends the night attacking a production agent and comes back with reusable explanations of why it breaks. [TrustFork](https://github.com/henrymao2004/agent-orchestration-safety) studies subagent orchestration, where a fake identity on a worker's nametag can hijack whom the main agent trusts and allows to act. [CAVE](https://github.com/henrymao2004/agent-over-correction) studies the reply *you're right, let me fix it*: after the job is already done, a false accusation can make an agent undo a working system. [STARE](https://arxiv.org/abs/2605.00699) carries the same attack question into multimodal models, along the generation timeline.
-
-- **Remembering and improving.** Once an agent keeps state, a failure can outlive the chat that caused it. [PASB](https://arxiv.org/abs/2607.10526) shows sycophancy writing itself into memory and bossing later conversations. [MisEvolve](https://arxiv.org/abs/2608.12851) follows one unsafe lesson as it becomes a skill the agent keeps reusing. [MemMark](https://arxiv.org/abs/2605.25002) watermarks who wrote a memory, so long-term state can be attributed.
-
-- **Looking inside and stepping in.** I trace the circuits that decide what an agent writes into memory and what it pulls back out ([Agent Memory](https://arxiv.org/abs/2605.03354)), then turn that kind of internal evidence into tools that watch and steer activations, including chain-of-thought obfuscation in VLMs ([TAME](https://arxiv.org/abs/2609.24243)).
+- **Acting and coordinating.** I study how agents fail while they act in the world and while they hand work to other agents.
+- **Remembering and improving.** I study how a failure stays in an agent's memory and later changes what it does.
+- **Looking inside and stepping in.** I study the internal signals behind those failures and how to intervene from inside the model.
 
 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> is now on arXiv.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> is now on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> is now on arXiv.</li>
-<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> and <a href="https://arxiv.org/abs/2607.10526" target="_blank">persistent sycophancy in stateful personal agents</a> are now on arXiv.</li>
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> and our <a href="https://arxiv.org/abs/2607.10526" target="_blank">benchmark for persistent sycophancy happened in agent</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> was accepted to <strong>ICML 2026</strong> (Poster).</li>
+<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 We had <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and our <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
   </ul>
 </div>
 
