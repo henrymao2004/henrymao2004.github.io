@@ -25,11 +25,11 @@ News
   <ul class="news-list">
 <li><span class="news-date"><em>2026.09</em></span> 🚀🚀 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> is now on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
-<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> on arXiv.</li>
-<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> and our <a href="https://arxiv.org/abs/2607.10526" target="_blank">benchmark for persistent sycophancy happened in agent</a> on arXiv.</li>
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> was accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 We had <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and our <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
+<li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> and our work on <a href="https://arxiv.org/abs/2607.10526" target="_blank">benchmark for persistent sycophancy happened in agent</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> was accepted to <strong>ICML 2026</strong> (Poster).</li>
+<li><span class="news-date"><em>2025.11</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and our work on <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
   </ul>
 </div>
 
@@ -71,7 +71,7 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/stare.png" alt="STARE" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/cards/stare.jpg" alt="STARE" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
       <strong>STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</strong><br>
@@ -88,7 +88,7 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/trustfork.png" alt="TrustFork" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/cards/trustfork.jpg" alt="TrustFork" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
       <strong>Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong><br>
@@ -106,7 +106,7 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/cave.png" alt="CAVE-Bench" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/cards/cave.jpg" alt="CAVE-Bench" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
       <strong>You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong><br>
@@ -124,7 +124,7 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/aha.png" alt="AHA" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/cards/aha.jpg" alt="AHA" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
       <strong>Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming</strong><br>
@@ -142,7 +142,7 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/pasb.png" alt="PASB" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/cards/pasb.jpg" alt="PASB" style="width: 320px; height: 180px; object-fit: cover; display: block; margin: 0 auto;"> 
     </div> 
     <div>
       <strong>Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</strong><br>
