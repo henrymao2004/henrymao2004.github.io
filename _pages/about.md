@@ -16,7 +16,7 @@ My research asks **how AI fails as it grows more capable—and how to keep that 
 Research Interests
 ------------------
 - **Acting and coordinating.** I study how AI fails while it acts in the world and while it hands work to other AI.
-- **Remembering and improving.** I study how a failure persists in AI memory and later changes what it does.
+- **Remembering and improving.** I study how AI failure persists in memory and later changes what it does.
 - **Looking inside and stepping in.** I study the internal signals behind those failures and how to intervene from inside the model.
 
 News
