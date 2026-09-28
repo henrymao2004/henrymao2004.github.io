@@ -12,12 +12,9 @@
         scroll-margin-top: 80px;
     }
   
-      /* ===== News Scroll Box ===== */
+      /* ===== News ===== */
     .news-box {
-      overflow-y: visible;
-      padding: 10px 14px;
-      background: #f7f7f7;
-      border-radius: 10px;
+      padding: 0;
       margin-bottom: 20px;
     }
     

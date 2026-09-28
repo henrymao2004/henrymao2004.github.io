@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Xutao Mao"
 title_separator          : "-"
 name                     : "Xutao Mao"
-description              : &description "Xutao Mao — first-year Ph.D. student at City University of Hong Kong, working on trustworthy AI and agent safety."
+description              : &description "Xutao Mao, first-year Ph.D. student at City University of Hong Kong, working on trustworthy AI and AI safety."
 url                      : "https://henrymao2004.github.io"
 baseurl                  : ""
 repository               : "henrymao2004/henrymao2004.github.io"
@@ -11,7 +11,7 @@ author:
   avatar           : "bio.jpg"
   name             : "Xutao Mao"
   pronouns         :
-  bio              : "First-year Ph.D. student at City University of Hong Kong. I study how AI agents fail as they grow more capable—and how to keep that evolution safe."
+  bio              : "First-year Ph.D. student at City University of Hong Kong. I study how AI fails as it grows more capable, and how to keep that evolution safe."
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              :

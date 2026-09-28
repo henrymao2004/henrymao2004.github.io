@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research asks **how AI fails as it grows more capable—and how to keep that evolution safe.** As AI starts to act in the world, it also begins to coordinate with others, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **AI safety**. Feel free to reach out if you are interested in collaboration.
+My research asks **how AI fails as it grows more capable, and how to keep that evolution safe.** As AI starts to act in the world, it also begins to coordinate with others, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **AI safety**. Feel free to reach out if you are interested in collaboration.
 
 Research Interests
 ------------------
@@ -134,7 +134,7 @@ Publications
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
       <strong class="pub-entry-title">Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</span>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
         <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank">CODE</a>
@@ -150,7 +150,7 @@ Publications
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
       <strong class="pub-entry-title">You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
         <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">CODE</a>
