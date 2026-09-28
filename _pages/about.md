@@ -181,7 +181,7 @@ Publications
   <div class="pub-entry">
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
-      <strong class="pub-entry-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</strong>
+      <strong class="pub-entry-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
@@ -232,13 +232,25 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Linghan Chen, Yudong Gao, Junchi Liao, Junlin Cai, Jinman Zhao, Cong Wang&dagger;</span>
+      <span class="pub-list-links"><a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank">[dataset]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
+      <span class="pub-list-links"><a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank">[dataset]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.11698" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">[code]</a><a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</span><br>
+      <span class="pub-list-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
     </li>
