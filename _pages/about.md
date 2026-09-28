@@ -76,7 +76,7 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <em class="pub-entry-venue">Advances in Neural Information Processing Systems, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2609.24243" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2609.24243" target="_blank">PAPER</a>
         <a href="https://github.com/henrymao2004/tame" target="_blank">CODE</a>
       </div>
     </div>
@@ -91,7 +91,7 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Proceedings of the 43rd International Conference on Machine Learning, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2605.00699" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2605.00699" target="_blank">PAPER</a>
         <a href="https://github.com/henrymao2004/STARE" target="_blank">CODE</a>
       </div>
     </div>
@@ -106,7 +106,7 @@ Publications
       <span class="pub-entry-authors">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
       <em class="pub-entry-venue">Findings of the Conference on Empirical Methods in Natural Language Processing, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2605.25002" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2605.25002" target="_blank">PAPER</a>
         <a href="https://github.com/zhb0119/MemMark" target="_blank">CODE</a>
         <a href="https://henrymao2004.github.io/MemMark/" target="_blank">PROJECT</a>
       </div>
@@ -122,7 +122,7 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
       <em class="pub-entry-venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2505.14422" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2505.14422" target="_blank">PAPER</a>
         <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">CODE</a>
       </div>
     </div>
@@ -169,7 +169,7 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2607.11698" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2607.11698" target="_blank">PAPER</a>
         <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">CODE</a>
         <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">PROJECT</a>
       </div>
@@ -185,7 +185,7 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2607.10526" target="_blank">ARXIV</a>
+        <a href="https://arxiv.org/abs/2607.10526" target="_blank">PAPER</a>
         <a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">CODE</a>
         <a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">PROJECT</a>
         <a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">DATASET</a>
@@ -203,62 +203,62 @@ Publications
       <span class="pub-list-badge">NeurIPS 2026</span>
       <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/tame" target="_blank">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/tame" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">EMNLP 2026 Findings</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
       <span class="pub-list-authors">Haobo Zhang*, <strong>Xutao Mao*</strong>, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[arXiv]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.25002" target="_blank">[paper]</a><a href="https://github.com/zhb0119/MemMark" target="_blank">[code]</a><a href="https://henrymao2004.github.io/MemMark/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">ICML 2026 Poster</span>
       <span class="pub-list-title">STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.00699" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/STARE" target="_blank">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.00699" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/STARE" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">AAAI 2026 Oral</span>
       <span class="pub-list-title">MindVote: When AI Meets the Wild West of Social Media Opinion</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.14422" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.14422" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">AAAI 2026 Poster</span>
       <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
       <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
       <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[arXiv]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[paper]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.11698" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">[code]</a><a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">[project]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.11698" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">[code]</a><a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">[project]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jinman Zhao, Gerald Penn, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2605.03354" target="_blank">[paper]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2608.12851" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/misevolve" target="_blank">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2608.12851" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/misevolve" target="_blank">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
       <span class="pub-list-title">Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation</span><br>
       <span class="pub-list-authors">Leyao Wang*, <strong>Xutao Mao*</strong>, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A Rossi, Nesreen K Ahmed, Tyler Derr&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2508.01128" target="_blank">[arXiv]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2508.01128" target="_blank">[paper]</a></span>
     </li>
   </ul>
 </div>
