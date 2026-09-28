@@ -11,19 +11,19 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. in Computer Science and Mathematics from Vanderbilt University.
 
-My research asks **how AI agents fail as they grow more capable—and how to keep that evolution safe.** As they start to act in the world, they also begin to coordinate with other agents, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **agent safety**. Feel free to reach out if you are interested in collaboration.
+My research asks **how AI fails as it grows more capable—and how to keep that evolution safe.** As AI starts to act in the world, it also begins to coordinate with others, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **AI safety**. Feel free to reach out if you are interested in collaboration.
 
 Research Interests
 ------------------
-- **Acting and coordinating.** I study how agents fail while they act in the world and while they hand work to other agents.
-- **Remembering and improving.** I study how a failure stays in an agent's memory and later changes what it does.
+- **Acting and coordinating.** I study how AI fails while it acts in the world and while it hands work to other AI.
+- **Remembering and improving.** I study how a failure persists in AI memory and later changes what it does.
 - **Looking inside and stepping in.** I study the internal signals behind those failures and how to intervene from inside the model.
 
 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> is now on arXiv.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2608.12851" target="_blank">skill misevolution in LLM agents</a> on arXiv.</li>
@@ -44,7 +44,7 @@ Experience
           <strong>City University of Hong Kong</strong><br>
           <em>2026.09 - Present</em><br>
           Ph.D. in Computer Science, advised by <a href="https://www.cs.cityu.edu.hk/~congwang/"><em>Prof. Cong Wang</em></a><br>
-          <span style="color:#888;">Research: agent safety.</span>
+          <span style="color:#888;">Research: AI safety.</span>
       </div>
   </div>
 
@@ -67,6 +67,21 @@ Publications
 (* equal contribution · &dagger; corresponding author)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+
+<div class="publication-card" data-category="all">
+  <div class="pub-entry">
+    <div class="pub-venue-pill">NeurIPS'26</div>
+    <div class="pub-entry-body">
+      <strong class="pub-entry-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</strong>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
+      <em class="pub-entry-venue">Advances in Neural Information Processing Systems, 2026</em>
+      <div class="pub-entry-links">
+        <a href="https://arxiv.org/abs/2609.24243" target="_blank">ARXIV</a>
+        <a href="https://github.com/henrymao2004/tame" target="_blank">CODE</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="publication-card" data-category="all">
   <div class="pub-entry">
@@ -179,29 +194,17 @@ Publications
   </div>
 </div>
 
-{% comment %}
-Temporarily hidden from Core Publications. Remove these Liquid comment tags to restore the Taming card.
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/tame.png" alt="TAME" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</strong><br>
-      <i style="font-size: 13px;"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</i><br> 
-      A mechanistic framework that diagnoses and suppresses chain-of-thought obfuscation in RL-trained VLMs; it improves the transparency and enforceability of model reasoning.
-      <br> 
-      <b><i style="color:#83a1c7;">Preprint &nbsp;</i></b>
-    </div>
-  </div> 
-</div>
-{% endcomment %}
-
 </div>
 
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
+    <li id="tame-paper">
+      <span class="pub-list-badge">NeurIPS 2026</span>
+      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement</span><br>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/tame" target="_blank">[code]</a></span>
+    </li>
     <li>
       <span class="pub-list-badge">EMNLP 2026 Findings</span>
       <span class="pub-list-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</span><br>
@@ -238,12 +241,6 @@ Temporarily hidden from Core Publications. Remove these Liquid comment tags to r
       <span class="pub-list-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2607.10526" target="_blank">[arXiv]</a><a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">[dataset]</a></span>
-    </li>
-    <li id="tame-paper">
-      <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement</span><br>
-      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
@@ -286,7 +283,7 @@ Collaboration
 <div class="collaboration-card">
   <div class="collaboration-copy">
     <strong>Let's discuss ideas and build something meaningful together.</strong>
-    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around agent safety as agents grow more capable. If our interests overlap, feel free to reach out.</p>
+    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around AI safety as AI grows more capable. If our interests overlap, feel free to reach out.</p>
   </div>
   <a class="collaboration-email" href="mailto:xutao.henry.mao@gmail.com" aria-label="Email Xutao Mao at xutao.henry.mao@gmail.com">
     <i class="fas fa-envelope" aria-hidden="true"></i>
