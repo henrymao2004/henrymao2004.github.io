@@ -23,7 +23,7 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2609.32635" target="_blank">identity hijacking in agent orchestration</a> and on <a href="https://arxiv.org/abs/2609.32616" target="_blank">over-correction under false accusation</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2609.32635" target="_blank">identity hijacking in agent orchestration</a> and on <a href="https://arxiv.org/abs/2609.32616" target="_blank">agents breaking correct work when falsely accused</a> on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
