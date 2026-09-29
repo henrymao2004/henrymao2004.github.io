@@ -29,7 +29,7 @@ News
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
 <li><span class="news-date"><em>2026.07</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2607.11698" target="_blank">autoresearch to discovery vulnerability in production agent</a> on arXiv.</li>
 <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.00699" target="_blank">red-teaming for multi-modal toxicity</a> was accepted to <strong>ICML 2026</strong> (Poster).</li>
-<li><span class="news-date"><em>2025.12</em></span> 🎓🎓 I graduated from Vanderbilt University with Honors in Computer Science.</li>
+<li><span class="news-date"><em>2025.12</em></span> 🎓🎓 I completed my undergraduate studies at Vanderbilt University, graduating with Honors in Computer Science.</li>
 <li><span class="news-date"><em>2025.11</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2505.14422" target="_blank">social-media opinion prediction</a> (Oral) and on <a href="https://arxiv.org/abs/2505.18744" target="_blank">multi-domain text-to-SQL benchmark</a> (Poster) accepted to <strong>AAAI 2026</strong>.</li>
   </ul>
 </div>
