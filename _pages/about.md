@@ -23,7 +23,7 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2609.32635" target="_blank">identity hijacking in LLM agent orchestration</a> and on <a href="https://arxiv.org/abs/2609.32616" target="_blank">"You're Right, Let Me Fix It": LLM agents damaging correct work when falsely accused</a> on arXiv.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🚀🚀 We released work on <a href="https://arxiv.org/abs/2609.32635" target="_blank">identity hijacking in agent orchestration</a> and on <a href="https://arxiv.org/abs/2609.32616" target="_blank">over-correction under false accusation</a> on arXiv.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2609.24243" target="_blank">mechanistic analysis and mitigation for CoT obfuscation in VLMs</a> was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><span class="news-date"><em>2026.09</em></span> 🎓🎓 I am starting my Ph.D. at the City University of Hong Kong.</li>
 <li><span class="news-date"><em>2026.08</em></span> 🎉🎉 Our work on <a href="https://arxiv.org/abs/2605.25002" target="_blank">watermarking for agent long-term memory</a> was accepted to <strong>Findings of EMNLP 2026</strong>.</li>
@@ -151,7 +151,7 @@ Publications
   <div class="pub-entry">
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
-      <strong class="pub-entry-title">You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</strong>
+      <strong class="pub-entry-title">"You're Right, Let Me Fix It": How LLM Agents Damage Correct Work When Falsely Accused</strong>
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
@@ -241,7 +241,7 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">Preprint</span>
-      <span class="pub-list-title">You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused</span><br>
+      <span class="pub-list-title">"You're Right, Let Me Fix It": How LLM Agents Damage Correct Work When Falsely Accused</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.32616" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">[code]</a><a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank">[project]</a><a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank">[dataset]</a></span>
     </li>
