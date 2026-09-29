@@ -284,7 +284,7 @@ Publications
 
 Scholarships
 --------
-- *2026*, Hong Kong Postgraduate Scholarships (during PhD study).
+- *2026*, Hong Kong Postgraduate Scholarships (during Ph.D. study).
 - *2025*, Vanderbilt Summer Research Program Scholarship.
 
 
