@@ -204,7 +204,7 @@ Publications
   <ul class="full-publication-list">
     <li id="tame-paper">
       <span class="pub-list-badge">NeurIPS 2026</span>
-      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement</span><br>
+      <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
       <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/tame" target="_blank">[code]</a></span>
     </li>
