@@ -290,7 +290,7 @@ Scholarships
 
 Services
 --------
-- Reviewer, AAAI 2026 / 2027 · TheWebConf 2026 · NeurIPS 2026.
+- Reviewer, AAAI 2026 / 2027 · TheWebConf 2026 · NeurIPS 2026 · ACL ARR (Oct 2026).
 
 
 Collaboration
