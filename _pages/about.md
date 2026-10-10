@@ -74,7 +74,7 @@ Publications
     <div class="pub-venue-pill">NeurIPS'26</div>
     <div class="pub-entry-body">
       <strong class="pub-entry-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
+      <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Jianing Zhu*, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <em class="pub-entry-venue">Advances in Neural Information Processing Systems, 2026</em>
       <div class="pub-entry-links">
         <a href="https://arxiv.org/abs/2609.24243" target="_blank">PAPER</a>
@@ -205,7 +205,7 @@ Publications
     <li id="tame-paper">
       <span class="pub-list-badge">NeurIPS 2026</span>
       <span class="pub-list-title">Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement</span><br>
-      <span class="pub-list-authors"><strong>Xutao Mao</strong>, Jianing Zhu, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
+      <span class="pub-list-authors"><strong>Xutao Mao</strong>*, Jianing Zhu*, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2609.24243" target="_blank">[paper]</a><a href="https://github.com/henrymao2004/tame" target="_blank">[code]</a></span>
     </li>
     <li>
@@ -229,7 +229,7 @@ Publications
     <li>
       <span class="pub-list-badge">AAAI 2026 Poster</span>
       <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
-      <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Luo Zhewei, Kunli Zhang, Min Peng</span>
+      <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Zhewei Luo, Kunli Zhang, Min Peng</span>
       <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[paper]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
     </li>
@@ -275,6 +275,18 @@ Publications
       <span class="pub-list-authors">Leyao Wang*, <strong>Xutao Mao*</strong>, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A Rossi, Nesreen K Ahmed, Tyler Derr&dagger;</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2508.01128" target="_blank">[paper]</a></span>
     </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">ParlAI Vote: A Web Platform for Analyzing Gender and Political Bias in Large Language Models</span><br>
+      <span class="pub-list-authors">Wenjie Lin*, Hange Liu*, Yingying Zhuang, <strong>Xutao Mao</strong>, Jingwei Shi, Xudong Han, Tianyu Shi, Jinrui Yang&dagger;</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2509.16264" target="_blank">[paper]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Preprint</span>
+      <span class="pub-list-title">Cooldown Landmines: Cross-Tenant Interference Attacks on LLM Gateways</span><br>
+      <span class="pub-list-authors">Yudong Gao*, Linghan Chen*, Wenhan Wu, Quan Shi, <strong>Xutao Mao</strong>, Mia Zhou, Junjian Li, Xiaolong Liu, Jiyao Wang, Mingyu Guo, Honglong Chen&dagger;</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2610.05089" target="_blank">[paper]</a></span>
+    </li>
   </ul>
 </div>
 
@@ -290,7 +302,7 @@ Scholarships
 
 Services
 --------
-- Reviewer, AAAI 2026 / 2027 · TheWebConf 2026 · NeurIPS 2026 · ACL ARR (Oct 2026).
+- Reviewer, ICLR 2027 · NeurIPS 2026 · AAAI 2026 / 2027 · TheWebConf 2026 · ACL ARR (Oct 2026).
 
 
 Collaboration
