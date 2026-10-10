@@ -50,6 +50,16 @@ Experience
   </div>
 
   <div class="experience-card">
+      <img src="images/hkbu.png" alt="HKBU logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>Hong Kong Baptist University</strong><br>
+          <em>2025.12 - 2026.08</em><br>
+          Research Assistant, advised by <a href="https://bhanml.github.io/"><em>Prof. Bo Han</em></a><br>
+          <span style="color:#888;">Research: CoT monitorability.</span>
+      </div>
+  </div>
+
+  <div class="experience-card">
       <img src="images/vanderbilt.png" alt="Vanderbilt logo" class="experience-logo">
       <div class="experience-info">
           <strong>Vanderbilt University</strong><br>
@@ -228,7 +238,7 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">AAAI 2026 Poster</span>
-      <span class="pub-list-title">LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
+      <span class="pub-list-title">LogicCat: Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges</span><br>
       <span class="pub-list-authors">Tao Liu*, <strong>Xutao Mao*</strong>, Hongying Zan&dagger;, Dixuan Zhang, Yifan Li, Haixin Liu, Lulu Kong, Jiaming Hou, Rui Li, YunLong Li, Aoze Zheng, Zhiqiang Zhang, Zhewei Luo, Kunli Zhang, Min Peng</span>
       <span style="display:block; font-size:12px; color:#9aa0a6; font-style:italic; margin-top:2px;">* equal contribution, listed in alphabetical order</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2505.18744" target="_blank">[paper]</a><a href="https://github.com/Ffunkytao/LogicCat" target="_blank">[code]</a></span>
