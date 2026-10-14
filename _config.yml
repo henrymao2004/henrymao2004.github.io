@@ -91,7 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 : "og-card.png"
 social:
   type                   :
   name                   :
