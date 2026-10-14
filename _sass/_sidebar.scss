@@ -281,6 +281,13 @@
     text-align: center;
   }
 
+  li > a > .brand-icon {
+    width: 1.3em;
+    height: 1.3em;
+    justify-self: center;
+    object-fit: contain;
+  }
+
   .icon-pad-right {
     padding-right: 0;
   }
