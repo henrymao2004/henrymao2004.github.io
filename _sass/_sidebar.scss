@@ -282,9 +282,10 @@
   }
 
   li > a > .brand-icon {
-    width: 1.3em;
-    height: 1.3em;
-    justify-self: center;
+    box-sizing: border-box;
+    width: 1.85em;
+    height: 1.85em;
+    padding: 0.275em;
     object-fit: contain;
   }
 
