@@ -111,37 +111,6 @@ Publications
 
 <div class="publication-card" data-category="all">
   <div class="pub-entry">
-    <div class="pub-venue-pill">EMNLP'26 Findings</div>
-    <div class="pub-entry-body">
-      <strong class="pub-entry-title">MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems</strong>
-      <span class="pub-entry-authors">Haobo Zhang*, <strong>Xutao Mao</strong>*, Guangyuan Dong, Ziwei Li&dagger;, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin</span>
-      <em class="pub-entry-venue">Findings of the Conference on Empirical Methods in Natural Language Processing, 2026</em>
-      <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2605.25002" target="_blank">PAPER</a>
-        <a href="https://github.com/zhb0119/MemMark" target="_blank">CODE</a>
-        <a href="https://henrymao2004.github.io/MemMark/" target="_blank">PROJECT</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card" data-category="all">
-  <div class="pub-entry">
-    <div class="pub-venue-pill">AAAI'26 Oral</div>
-    <div class="pub-entry-body">
-      <strong class="pub-entry-title">MindVote: When AI Meets the Wild West of Social Media Opinion</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>&dagger;, Ezra Xuanru Tao, Leyao Wang</span>
-      <em class="pub-entry-venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2026</em>
-      <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2505.14422" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/MindVote_AAAI" target="_blank">CODE</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card" data-category="all">
-  <div class="pub-entry">
     <div class="pub-venue-pill">Preprint</div>
     <div class="pub-entry-body">
       <strong class="pub-entry-title">Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration</strong>
@@ -190,22 +159,6 @@ Publications
   </div>
 </div>
 
-<div class="publication-card" data-category="all">
-  <div class="pub-entry">
-    <div class="pub-venue-pill">Preprint</div>
-    <div class="pub-entry-body">
-      <strong class="pub-entry-title">Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents</strong>
-      <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Liangjie Zhao*, Leyao Wang, Rui Qian, Qiang Huang, Wentao Wang, Bo Han&dagger;, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
-      <em class="pub-entry-venue">Preprint, 2026</em>
-      <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2607.10526" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/agent-sycophancy" target="_blank">CODE</a>
-        <a href="https://henrymao2004.github.io/agent-sycophancy/" target="_blank">PROJECT</a>
-        <a href="https://huggingface.co/datasets/sevens2004/pasb" target="_blank">DATASET</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 </div>
 
