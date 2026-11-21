@@ -11,13 +11,13 @@ redirect_from:
 
 Hi! My name is **Xutao Mao**. I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). Before that, I received my B.S. with Honors in Computer Science and Mathematics from Vanderbilt University.
 
-My research asks **how AI fails as it grows more capable, and how to keep that evolution safe.** As AI starts to act in the world, it also begins to coordinate with others, then keep memory. I study the safety surface that appears at each of those steps, with a focus on **AI safety**. Feel free to reach out if you are interested in collaboration.
+My research studies **agent misbehavior and how to evaluate it.** As LLM agents act in the world, hand work to other agents, and keep memory to improve themselves, they fail in ways that standard benchmarks miss. I build benchmarks and automated red-teaming to surface these failures, and study the internal signals that help catch them. Feel free to reach out if you are interested in collaboration.
 
 Research Interests
 ------------------
-- **Acting and coordinating.** I study how AI fails while it acts in the world and while it hands work to other AI.
-- **Remembering and improving.** I study how AI failure persists in memory and later changes what it does.
-- **Looking inside and stepping in.** I study the internal signals behind those failures and how to intervene from inside the model.
+- **Misbehavior in action and coordination.** How agents fail under pressure or misplaced trust: damaging [correct work when falsely accused](https://arxiv.org/abs/2609.32616), and being [hijacked by identity in multi-agent orchestration](https://arxiv.org/abs/2609.32635).
+- **Misbehavior that persists and evolves.** How failures get written into memory and self-improvement: [persistent sycophancy in personal agents](https://arxiv.org/abs/2607.10526) and [skills that turn unsafe through practice](https://arxiv.org/abs/2608.12851).
+- **Evaluation and monitoring that scale.** Evals that keep up with capable agents: [autoresearch that red-teams production agents](https://arxiv.org/abs/2607.11698), plus monitoring from inside the model, such as [CoT obfuscation](https://arxiv.org/abs/2609.24243) and [memory circuits](https://arxiv.org/abs/2605.03354).
 
 News
 ---------------
@@ -45,7 +45,7 @@ Experience
           <strong>City University of Hong Kong</strong><br>
           <em>2026.09 - Present</em><br>
           Ph.D. in Computer Science, advised by <a href="https://www.cs.cityu.edu.hk/~congwang/"><em>Prof. Cong Wang</em></a><br>
-          <span style="color:#888;">Research: AI safety.</span>
+          <span style="color:#888;">Research: agent misbehavior &amp; evaluation.</span>
       </div>
   </div>
 
@@ -87,8 +87,8 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Jianing Zhu*, Jinman Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang&dagger;, Bo Han&dagger;</span>
       <em class="pub-entry-venue">Advances in Neural Information Processing Systems, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2609.24243" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/tame" target="_blank">CODE</a>
+        <a href="https://arxiv.org/abs/2609.24243" target="_blank">Paper</a>
+        <a href="https://github.com/henrymao2004/tame" target="_blank">Code</a>
       </div>
     </div>
   </div>
@@ -102,8 +102,8 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Liangjie Zhao, Tao Liu, Xiang Zheng&dagger;, Hongying Zan, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Proceedings of the 43rd International Conference on Machine Learning, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2605.00699" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/STARE" target="_blank">CODE</a>
+        <a href="https://arxiv.org/abs/2605.00699" target="_blank">Paper</a>
+        <a href="https://github.com/henrymao2004/STARE" target="_blank">Code</a>
       </div>
     </div>
   </div>
@@ -117,10 +117,10 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Linghan Chen, Yudong Gao, Junchi Liao, Jiulin Cai, Jinman Zhao, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2609.32635" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank">CODE</a>
-        <a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank">PROJECT</a>
-        <a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank">DATASET</a>
+        <a href="https://arxiv.org/abs/2609.32635" target="_blank">Paper</a>
+        <a href="https://github.com/henrymao2004/agent-orchestration-safety" target="_blank">Code</a>
+        <a href="https://henrymao2004.github.io/agent-orchestration-safety/" target="_blank">Project</a>
+        <a href="https://huggingface.co/datasets/sevens2004/trustfork" target="_blank">Dataset</a>
       </div>
     </div>
   </div>
@@ -134,10 +134,10 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>*, Rui Qian*, Longxiang Wang, Xinjian Yi, Mingxuan Li, Linghan Chen, Yudong Gao, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2609.32616" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">CODE</a>
-        <a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank">PROJECT</a>
-        <a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank">DATASET</a>
+        <a href="https://arxiv.org/abs/2609.32616" target="_blank">Paper</a>
+        <a href="https://github.com/henrymao2004/agent-over-correction" target="_blank">Code</a>
+        <a href="https://henrymao2004.github.io/agent-over-correction/" target="_blank">Project</a>
+        <a href="https://huggingface.co/datasets/sevens2004/cave_bench" target="_blank">Dataset</a>
       </div>
     </div>
   </div>
@@ -151,9 +151,9 @@ Publications
       <span class="pub-entry-authors"><strong>Xutao Mao</strong>, Rui Qian, Xiang Zheng&dagger;, Cong Wang&dagger;</span>
       <em class="pub-entry-venue">Preprint, 2026</em>
       <div class="pub-entry-links">
-        <a href="https://arxiv.org/abs/2607.11698" target="_blank">PAPER</a>
-        <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">CODE</a>
-        <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">PROJECT</a>
+        <a href="https://arxiv.org/abs/2607.11698" target="_blank">Paper</a>
+        <a href="https://github.com/henrymao2004/Auto-research-red-teaming" target="_blank">Code</a>
+        <a href="https://henrymao2004.github.io/Auto-research-red-teaming/" target="_blank">Project</a>
       </div>
     </div>
   </div>
@@ -273,7 +273,7 @@ Collaboration
 <div class="collaboration-card">
   <div class="collaboration-copy">
     <strong>Let's discuss ideas and build something meaningful together.</strong>
-    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around AI safety as AI grows more capable. If our interests overlap, feel free to reach out.</p>
+    <p>I'm always happy to discuss new research ideas and explore potential collaborations, especially around agent misbehavior and evaluation. If our interests overlap, feel free to reach out.</p>
   </div>
   <a class="collaboration-email" href="mailto:xutao.henry.mao@gmail.com" aria-label="Email Xutao Mao at xutao.henry.mao@gmail.com">
     <i class="fas fa-envelope" aria-hidden="true"></i>

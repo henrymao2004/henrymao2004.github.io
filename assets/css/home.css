@@ -523,3 +523,76 @@
 
 
 
+
+/* ===== Flat, Yang-Song-style overrides (2026.11) ===== */
+/* Publications: no card frame, pill column + text column */
+.publication-card,
+.publication-card:hover {
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    margin-bottom: 26px;
+}
+.pub-entry { gap: 24px; padding: 0; }
+.pub-venue-col {
+    flex: 0 0 96px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.pub-venue-pill {
+    flex: 0 0 96px;
+    border-radius: 6px;
+    padding: 5px 6px;
+    font-size: 13px;
+}
+.pub-venue-col .pub-venue-pill { flex: none; }
+.pub-venue-sub {
+    border: 1.5px solid #ca6f6f;
+    color: #ca6f6f;
+    background: #fff;
+    border-radius: 6px;
+    padding: 3px 6px;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: center;
+}
+.pub-entry-title { font-size: 17px; font-weight: 600; }
+.pub-entry-note {
+    display: block;
+    margin-top: 4px;
+    color: #ca6f6f;
+    font-size: 15px;
+}
+.pub-entry-links a {
+    border: 1px solid #202124;
+    border-radius: 4px;
+    padding: 2px 10px;
+    font-size: 13px;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+/* Experience: flat rows instead of shadowed cards */
+.experience-container { gap: 14px; }
+.experience-card,
+.experience-card:hover {
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0;
+}
+.experience-logo { width: 52px; height: 52px; }
+.experience-info { font-family: inherit; }
+
+/* Collaboration: plain block with accent rule */
+.collaboration-card {
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    border-left: 3px solid #ca6f6f;
+    border-radius: 0;
+    padding: 6px 0 6px 18px;
+}
+.collaboration-email { box-shadow: none; }
